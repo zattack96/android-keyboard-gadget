@@ -72,6 +72,7 @@ OnePlus One
 -----------
 
 - http://sourceforge.net/projects/namelessrom/files/bacon/ - it's ROM, not just a kernel
+- http://forum.xda-developers.com/oneplus-one/orig-development/kernel-ak-t2832168 - AK Kernel
 
 Galaxy S4
 ---------
